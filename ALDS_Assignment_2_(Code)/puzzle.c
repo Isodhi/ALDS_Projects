@@ -8,7 +8,6 @@
 #include <sys/resource.h>
 #include <sys/time.h>
 
-//Comment
 /** 
  * READ THIS DESCRIPTION
  *
